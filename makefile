@@ -1,2 +1,2 @@
 main: main.cpp
-	g++ -std=c++11 -lncurses main.cpp -o main
+	g++ -std=c++11 main.cpp -lncurses -o main
